@@ -1,0 +1,61 @@
+﻿
+Name                                                          GroupScope Description
+----                                                          ---------- -----------
+Ordinateurs du domaine                                            Global            
+Contrôleurs de domaine                                            Global            
+Admins du domaine                                                 Global            
+Utilisateurs du domaine                                           Global            
+Invités du domaine                                                Global            
+Propriétaires créateurs de la stratégie de groupe                 Global            
+Contrôleurs de domaine en lecture seule                           Global            
+Contrôleurs de domaine clonables                                  Global            
+Protected Users                                                   Global            
+Administrateurs clés                                              Global            
+DnsUpdateProxy                                                    Global            
+GRP_Direction                                                     Global            
+GRP_RH                                                            Global            
+GRP_Finance                                                       Global            
+GRP_Commercial                                                    Global            
+GRP_Logistique                                                    Global            
+GRP_Marketing                                                     Global            
+GRP_Informatique                                                  Global            
+GRP_Stagiaire                                                     Global            
+Éditeurs de certificats                                      DomainLocal            
+Serveurs RAS et IAS                                          DomainLocal            
+Groupe de réplication dont le mot de passe RODC est autorisé DomainLocal            
+Groupe de réplication dont le mot de passe RODC est refusé   DomainLocal            
+DnsAdmins                                                    DomainLocal            
+Administrateurs                                              DomainLocal            
+Utilisateurs                                                 DomainLocal            
+Invités                                                      DomainLocal            
+Opérateurs d’impression                                      DomainLocal            
+Opérateurs de sauvegarde                                     DomainLocal            
+Duplicateurs                                                 DomainLocal            
+Utilisateurs du Bureau à distance                            DomainLocal            
+Opérateurs de configuration réseau                           DomainLocal            
+Utilisateurs de l’Analyseur de performances                  DomainLocal            
+Utilisateurs du journal de performances                      DomainLocal            
+Utilisateurs du modèle COM distribué                         DomainLocal            
+IIS_IUSRS                                                    DomainLocal            
+Opérateurs de chiffrement                                    DomainLocal            
+Lecteurs des journaux d’événements                           DomainLocal            
+Accès DCOM service de certificats                            DomainLocal            
+Serveurs Accès Distant RDS                                   DomainLocal            
+Serveurs RDS Endpoint                                        DomainLocal            
+Serveurs Gestion RDS                                         DomainLocal            
+Administrateurs Hyper-V                                      DomainLocal            
+Opérateurs d'assistance de contrôle d'accès                  DomainLocal            
+Utilisateurs de gestion à distance                           DomainLocal            
+Storage Replica Administrators                               DomainLocal            
+Opérateurs de serveur                                        DomainLocal            
+Opérateurs de compte                                         DomainLocal            
+Accès compatible pré-Windows 2000                            DomainLocal            
+Générateurs d’approbations de forêt entrante                 DomainLocal            
+Groupe d’accès d’autorisation Windows                        DomainLocal            
+Serveurs de licences des services Terminal Server            DomainLocal            
+Administrateurs du schéma                                      Universal            
+Administrateurs de l’entreprise                                Universal            
+Contrôleurs de domaine d’entreprise en lecture seule           Universal            
+Administrateurs clés Enterprise                                Universal            
+
+

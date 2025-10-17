@@ -1,0 +1,30 @@
+﻿
+SamAccountName Name                GivenName   Surname     UserPrincipalName        
+-------------- ----                ---------   -------     -----------------        
+Administrateur Administrateur                                                       
+Invité         Invité                                                               
+krbtgt         krbtgt                                                               
+a_marnet       Alain Marnet        Alain       Marnet      a;marnet@Axeplane.loc    
+a.viale        Annabeth Viale      Annabeth    Viale       a.viale@Axeplane.loc     
+t.faure        Thierry Faure       Thierry     Faure       t.faure@Axeplane.loc     
+d.rossi        Donna Rossi         Donna       Rossi       d.rossi@Axeplane.loc     
+e.pasteur      Elsa Pasteur        Elsa        Pasteur     e.pasteur@Axeplane.loc   
+j.alvarez      Juan Alvarez        Juan        Alvarez     j.alvarez@Axeplane.loc   
+j.wison        Jack Wilson         Jack        Wilson      j.wison@Axeplane.loc     
+c.lemoine      Chloé Lemoine       Chloé       Lemoine     c.lemoine@Axeplane.loc   
+v.vanmertens   Vick Van Mertens    Vick        Van Mertens v.vanmertens@Axeplane.loc
+g.mirabeau     Guy Mirabeau        Guy         Mirabeau    g.mirabeau@Axeplane.loc  
+a.kumari       Alisha Kumari       Alisha      Kumari      a.kumari@Axeplane.loc    
+jo.alvarez     Josefina Alvarez    Josefina    Alvarez     jo.alvarez@Axeplane.loc  
+h.bakri        Halan Bakri         Halan       Bakri       h.bakri@Axeplane.loc     
+m.dayma        Moussa Dayma        Moussa      Dayma       m.dayma@Axeplane.loc     
+m.saltiel      Myriam Saltiel      Myriam      Saltiel     m.saltiel@Axeplane.loc   
+a.dekoch       Albert De Koch      Albert      De Koch     a.dekoch@Axeplane.loc    
+m.zhang        Maddy Zhang         Maddy       Zhang       m.zhang@Axeplane.loc     
+c.schmidt      Christopher Schmidt Christopher Schmidt     c.schmidt@Axeplane.loc   
+a.pacaut       Anthony Pacaut      Anthony     Pacaut      a.pacaut@Axeplane.loc    
+a.scott        Aaron Scott         Aaron       Scott       a.scott@Axeplane.loc     
+s.baptista     Samuel Baptista     Samuel      Baptista    s.baptista@Axeplane.loc  
+s.ezzat        Sarah Ezzat         Sarah       Ezzat       s.ezzat@Axeplane.loc     
+
+
